@@ -43,7 +43,7 @@ Each `.cpp` file is a standalone Arduino sketch. There is no multi-file build. F
 | ESP32 DevKit V1 | 2 | ~$10 |
 | GY-87 (MPU6050 6-DOF IMU) | 1 | ~$3 |
 | TB6612FNG H-bridge breakout | 2 | ~$4 |
-| Brushed coreless motor (720/820) | 4 | ~$4 |
+| Brushed coreless motor (8520) | 4 | ~$4 |
 | 1S LiPo (350–500 mAh) | 1 | ~$5 |
 | 2x analog thumb joystick with switch | — | ~$3 |
 | Frame (3D-printed or foam) + props | — | ~$2 |
